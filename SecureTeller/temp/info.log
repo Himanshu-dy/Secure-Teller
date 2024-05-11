@@ -1,0 +1,42 @@
+[ATM]:[05/11/2024 10:15:28 PM]:WARNING:couldn't recognize data in image file "Data\icon.ico"
+[ATM]:[05/11/2024 10:15:36 PM]:DEBUG:user selected login
+[ATM]:[05/11/2024 10:15:36 PM]:INFO:creting a new file as 'Data\userdata.csv' in dir 'E:\Projects\SecureTeller'
+[ATM]:[05/11/2024 10:15:36 PM]:WARNING:no match found with username:
+[ATM]:[05/11/2024 10:15:39 PM]:WARNING:couldn't recognize data in image file "Data\icon.ico"
+[ATM]:[05/11/2024 10:15:39 PM]:DEBUG:creating entries....
+[ATM]:[05/11/2024 10:15:39 PM]:DEBUG:creating buttons ....
+[ATM]:[05/11/2024 10:16:07 PM]:INFO:exiting window
+[ATM]:[05/11/2024 10:17:57 PM]:WARNING:couldn't recognize data in image file "Data\icon.ico"
+[ATM]:[05/11/2024 10:18:19 PM]:DEBUG:user selected login
+[ATM]:[05/11/2024 10:18:19 PM]:WARNING:no match found with username:
+[ATM]:[05/11/2024 10:18:22 PM]:WARNING:couldn't recognize data in image file "Data\icon.ico"
+[ATM]:[05/11/2024 10:18:22 PM]:DEBUG:creating entries....
+[ATM]:[05/11/2024 10:18:22 PM]:DEBUG:creating buttons ....
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:user selected account type as Gold
+[ATM]:[05/11/2024 10:19:06 PM]:DEBUG:creating a new account
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:checking first name...
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:checking last name...
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:return full name with no middle name
+[ATM]:[05/11/2024 10:19:06 PM]:DEBUG:checking CNIC : 5273101006067
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:CNIC checked...
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:creating account number using nme : Himanshu Dubey
+[ATM]:[05/11/2024 10:19:06 PM]:INFO:user entered correct information and now prompting user for pin...
+[ATM]:[05/11/2024 10:19:06 PM]:DEBUG:creating entries...
+[ATM]:[05/11/2024 10:19:06 PM]:DEBUG:creating buttons....
+[ATM]:[05/11/2024 10:19:23 PM]:WARNING:pin did not match
+[ATM]:[05/11/2024 10:19:39 PM]:INFO:pin matched successfully
+[ATM]:[05/11/2024 10:19:39 PM]:INFO:account no generated successfully
+[ATM]:[05/11/2024 10:19:56 PM]:DEBUG:writing data in file
+[ATM]:[05/11/2024 10:19:56 PM]:INFO:data written successfully in file : userdata.csv
+[ATM]:[05/11/2024 10:20:09 PM]:DEBUG:user selected login
+[ATM]:[05/11/2024 10:20:09 PM]:DEBUG:username match found in data with name : himanshu dubey
+[ATM]:[05/11/2024 10:20:09 PM]:DEBUG:user entered correct pin
+[ATM]:[05/11/2024 10:20:14 PM]:DEBUG:user selected login
+[ATM]:[05/11/2024 10:20:14 PM]:WARNING:no match found with username:
+[ATM]:[05/11/2024 10:20:35 PM]:DEBUG:user selected login
+[ATM]:[05/11/2024 10:20:35 PM]:DEBUG:username match found in data with name : himanshu dubey
+[ATM]:[05/11/2024 10:20:35 PM]:DEBUG:user entered correct pin
+[ATM]:[05/11/2024 10:20:45 PM]:WARNING:couldn't recognize data in image file "Data\icon.ico"
+[ATM]:[05/11/2024 10:20:45 PM]:DEBUG:creating entries....
+[ATM]:[05/11/2024 10:20:45 PM]:DEBUG:creating buttons ....
+[ATM]:[05/11/2024 10:20:51 PM]:INFO:exiting window
